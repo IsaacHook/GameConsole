@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=BTN_A Pin=S2-4
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=BTN_UP Pin=S3-4
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=BTN_B Pin=S4-4
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=BTN_DOWN Pin=S5-4
+Added Pin To Net: NetName=GND Pin=S6-1
+Added Pin To Net: NetName=BTN_START Pin=S6-4
+Added Pin To Net: NetName=GND Pin=S7-1
+Added Pin To Net: NetName=BTN_LEFT Pin=S7-4
+Added Pin To Net: NetName=GND Pin=S8-1
+Added Pin To Net: NetName=BTN_RIGHT Pin=S8-4
+Added Pin To Net: NetName=GND Pin=S9-1
+Added Pin To Net: NetName=BTN_RESET Pin=S9-4

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=BTN_RIGHT Pin=J3-1
+Removed Pin From Net: NetName=RAM_CS Pin=U3-13
+Removed Pin From Net: NetName=BTN_START Pin=U3-16
+Removed Pin From Net: NetName=BTN_RIGHT Pin=U3-21
+Added Pin To Net: NetName=BTN_START Pin=U3-13
+Added Pin To Net: NetName=RAM_CS Pin=U3-16
+Added Pin To Net: NetName=BTN_RIGHT Pin=U3-25
+Added Pin To Net: NetName=TCK Pin=J3-1
+Added Pin To Net: NetName=TCK Pin=U3-21
+Added Net: Name=TCK
