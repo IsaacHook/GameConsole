@@ -17,5 +17,5 @@ Schematic, PCB and Code for Game Console
 ![alt text](imgs/back_3d.jpg "Back of Game Console (3D)")
 
 ### Final Product
-![alt text](imgs/final.jpg "Final Product")
+![alt text](imgs/final.JPG "Final Product")
 
